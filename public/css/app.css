@@ -1,0 +1,32 @@
+@font-face {
+	font-family: 'Khula-Bold';
+	src: url('/fonts/Khula-Bold.ttf.woff') format('woff'),
+		 url('/fonts/Khula-Bold.ttf.svg#Khula-Bold') format('svg'),
+		 url('/fonts/Khula-Bold.ttf.eot'),
+		 url('/fonts/Khula-Bold.ttf.eot?#iefix') format('embedded-opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+body {
+	color: white;
+	background-color: #3f4245;
+}
+h1, h2 {
+	font-family: 'Khula-Bold';
+}
+a {
+	color: #f9be03;
+}
+a:hover {
+	color: #f9be03;
+}
+.text-small {
+	font-size:70%;
+}
+.white {
+	color: white;
+}
+.yellow {
+	color: #f9be03;
+}
